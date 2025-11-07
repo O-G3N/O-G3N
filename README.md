@@ -2,8 +2,8 @@
 <div id="header" align="center">
   <img src="11.png" width="800"/>
   
-  <h1 align="center">👋 Merhaba, ben [Adınız]!</h1>
-  <h3 align="center">Kullanıcı odaklı tasarımlar yaratan bir UI/UX ve Grafik Tasarımcıyım.</h3>
+  <h1 align="center">👋 Merhaba, ben Hüseyin!</h1>
+  <h3 align="center">Sizin için modern ve zarif tasarımlar oluşturan bir UI/UX ve Grafik Tasarımcıyım.</h3>
 </div>
 
 <div align="center">
@@ -23,17 +23,16 @@
 
 ---
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 Kısaca Ben ve İşim
 
-> Karmaşık problemleri basit, estetik ve kullanıcı dostu arayüzlere dönüştürme tutkusuna sahibim. Tasarım ve teknolojinin kesişim noktasında durarak, geliştirici ekiplerle tasarım arasında güçlü bir köprü kuruyorum.
+> Karşılaştığınız sorunlar karşısında hızlı, basit ve estetik çözümler üretiyorum. Ayrıca tüm sorunların kullanıcı dostu olduğundan emin oluyorum. İşinize en az sizin kadar değer veriyor, hak ettiği özeni gösteriyorum.
 
 <br>
 
 * 🎨 **UI/UX Tasarımcısı** olarak kullanıcı deneyimini (UX) ön planda tutan, estetik ve işlevsel kullanıcı arayüzleri (UI) tasarlıyorum.
 * 🖌️ **Grafik Tasarımcı** olarak marka kimliği, illüstrasyon ve pazarlama materyalleri konularında çözümler üretiyorum.
-* 💡 Şu anda **[Öğrendiğiniz Yeni Bir Şey, Örn: 3D Tasarım / Protopie Animasyonları]** üzerine odaklanıyorum.
-* 🤝 İşbirliğine ve yeni projelere her zaman açığım.
-* 📬 Bana nasıl ulaşırsınız: **[EPOSTA_ADRESİNİZ]**
+* 💡 Şu anda **Yeni dil öğrenmeye** odaklanıyorum.
+* 📬 Bana nasıl ulaşırsınız: **......**
 
 ---
 
@@ -43,59 +42,16 @@ Burada en çok kullandığınız araçları ve yeteneklerinizi sergileyebilirsin
 
 #### UI/UX Tasarım
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=black)
 
 #### Grafik Tasarım
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
-
-#### Prototipleme & Diğer
-![Principle](https://img.shields.io/badge/Principle-8E5FFF?style=for-the-badge&logo=Principle&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-F2C83A?style=for-the-badge&logo=Miro&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
 ---
 
-### ⭐ Öne Çıkan Projeler
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">[Proje Adı 1 - Örn: E-Ticaret Mobil Uygulaması]</h3>
-      <br />
-      <a href="[PROJE_LİNKİ_1]" target="_blank">
-        <img src="[PROJE_GÖRSELİ_URL_1]" width="100%" alt="Proje 1 Görseli"/>
-      </a>
-      <br />
-      <p align="center">
-        [Kısa Proje Açıklaması. Örn: Kullanıcı araştırmasından prototiplemeye kadar tüm süreci yönettiğim mobil alışveriş uygulaması.]
-        <br />
-        <a href="[PROJE_LİNKİ_1]" target="_blank">
-          <b>Vaka Analizini İncele (Behance/Portfolyo) →</b>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">[Proje Adı 2 - Örn: Kurumsal Web Sitesi Yenileme]</h3>
-      <br />
-      <a href="[PROJE_LİNKİ_2]" target="_blank">
-        <img src="[PROJE_GÖRSELİ_URL_2]" width="100%" alt="Proje 2 Görseli"/>
-      </a>
-      <br />
-      <p align="center">
-        [Kısa Proje Açıklaması. Örn: [X] markası için hazırlanan, dönüşüm odaklı modern kurumsal web sitesi tasarımı.]
-        <br />
-        <a href="[PROJE_LİNKİ_2]" target="_blank">
-          <b>Projeyi Görüntüle →</b>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📊 GitHub İstatistiklerim
 
