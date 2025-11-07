@@ -32,7 +32,7 @@
 * 🎨 As a **UI/UX Designer**, I design aesthetic and functional user interfaces (UI) with a strong focus on user experience (UX).
 * 🖌️ As a **Graphic Designer**, I create solutions for brand identity, illustrations, and marketing materials.
 * 💡 I'm currently focused on **learning a new language**.
-* 📬 How to reach me: **[YOUR_EMAIL_HERE]**
+* 📬 How to reach me: **ççç**
 
 ---
 
