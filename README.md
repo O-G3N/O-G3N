@@ -36,9 +36,7 @@
 
 ---
 
-### 🛠️ Yetenekler & Kullandığım Araçlar
-
-Burada en çok kullandığınız araçları ve yeteneklerinizi sergileyebilirsiniz.
+### 🛠️ Kullandığım Araçlar
 
 #### UI/UX Tasarım
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
