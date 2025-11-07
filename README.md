@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div id="header" align="center">
   <img src="[BANNER_RESMİ_URL'Sİ_KOYUN - Örn: https://...]" width="800"/>
   
