@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="[YOUR_BANNER_IMAGE_URL_HERE]" width="800" alt="Profile Banner"/>
+  <img src="11.png" width="800" alt="Profile Banner"/>
   
   <h1 align="center">👋 Hi, I'm Hüseyin!</h1>
   <h3 align="center">I'm a UI/UX & Graphic Designer creating modern and elegant designs for you.</h3>
