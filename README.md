@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="[BANNER_RESMİ_URL'Sİ_KOYUN - Örn: https://...]" width="800"/>
+  <img src="https://pasteboard.co/mFB7Mr9vvqhU.png" width="800"/>
   
   <h1 align="center">👋 Merhaba, ben [Adınız]!</h1>
   <h3 align="center">Kullanıcı odaklı tasarımlar yaratan bir UI/UX ve Grafik Tasarımcıyım.</h3>
